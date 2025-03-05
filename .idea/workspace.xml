@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2d1b857-d86f-47f0-abd0-dfe4b4d3c1b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/.idea/admin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/backend/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/backend/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/backend/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/backend/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/backend/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/backend/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/backend/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/backend/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/backend/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/backend/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/auth/LoginDialog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/auth/LoginDialog.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/dialogs/CreatePostDialog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/dialogs/CreatePostDialog.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/dialogs/ReplyPostDialog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/dialogs/ReplyPostDialog.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/layout/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/MainContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/layout/MainContent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/RightSidebar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/layout/RightSidebar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/Sidebar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/layout/Sidebar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/layout/WelcomeBanner.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/layout/WelcomeBanner.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/post/PostContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/post/PostContent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/profile/ProfileArea.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/profile/ProfileArea.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/profile/ProfileHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/profile/ProfileHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/profile/ProfileList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/profile/ProfileList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/services/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/services/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/store/modules/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/store/modules/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/store/modules/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/store/modules/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/UserProfile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/UserProfile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/post/PostViewContainer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/post/PostViewContainer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vite.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2q1nS8Jr8WS7R6DKNldRBpLSqpk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/17531/Desktop/ourfroent",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\PyCharm\\PyCharm 2023.2.5\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2d1b857-d86f-47f0-abd0-dfe4b4d3c1b6" name="Changes" comment="" />
+      <created>1733838946886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733838946886</updated>
+      <workItem from="1733838948530" duration="2816000" />
+      <workItem from="1734146658972" duration="381000" />
+      <workItem from="1737530934603" duration="1409000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
